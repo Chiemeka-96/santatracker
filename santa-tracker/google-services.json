@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "407859026099",
+    "firebase_url": "https://santa-tracker-8f623.firebaseio.com",
+    "project_id": "santa-tracker-8f623",
+    "storage_bucket": "santa-tracker-8f623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407859026099:android:fc3c194a39d0dc9038f8c6",
+        "android_client_info": {
+          "package_name": "com.google.android.apps.santatracker.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407859026099-6n9ca76kdudc3lu94864b1gbko6cib73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj5wsAr3KmTKmp8wwlpTaMhYX_vML2PLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407859026099-6n9ca76kdudc3lu94864b1gbko6cib73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
